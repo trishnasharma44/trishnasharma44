@@ -1,5 +1,3 @@
-<img src="https://www.safersociety.com/wp-content/uploads/2018/04/Gif-animation-hello.gif">
-
 <h1 align="center">Hi 👋, I'm Trishna Devi</h1>
 <h3 align="center">A passionate frontend developer from India focused on building responsive, user-friendly interfaces. Currently exploring DSA and learning the MERN stack to grow as a full-stack developer.</h3>
 
